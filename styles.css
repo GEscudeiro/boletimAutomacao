@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.info-container {
+    width: 100%;
+    padding: 20px;
+}
+
+.info-box {
+    background-color: #e0e0e0;
+    margin: 10px 0;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.info-title {
+    font-size: 20px;
+    font-weight: bold;
+    color: #1E90FF;
+	margin-bottom: 10px; 
+}
+
+.info-content {
+    font-size: 16px;
+    color: #333;
+}
+
+/* Título principal em destaque */
+.main-title {
+    text-align: center;
+    font-size: 26px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    color: #1E90FF;
+}
+
+/* Nome principal da notícia com cor destacada */
+.news-name {
+	font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 10px;   	
+}
+
+.news-description {
+    margin-top: 5px;
+	font-size: 15px;
+}
